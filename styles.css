@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+}
+
+.siteTitle {
+    font-size: 6vh;
+    color:black;
+    text-align:center;
+    font-weight: bold;
+}
+
+.divForCentering {
+    text-align: center;
+}
+
+.buttonStyle {
+    font-size: 2vh;
+    padding: 1vh 2vh;
+    margin: 0;
+    background-color: #d04a4a;
+    border: 0;
+    border-radius: 0.3vh;
+}
+
+.buttonStyle:hover {
+    background-color: #b63d3d;
+}
